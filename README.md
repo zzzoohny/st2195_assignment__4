@@ -1,4 +1,4 @@
-# st2195_assignment_4
+# st2195_assignment__4
 
 #list
 1. Commit/Push the code below as a file called 'foo.R'.
